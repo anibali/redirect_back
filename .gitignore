@@ -2,5 +2,6 @@ pkg/
 tmp/
 doc/
 html/
+rdoc/
 *~
 
