@@ -1,7 +1,2 @@
-require 'redirect_back'
-require 'action_view'
-
-ActionView::Base.class_eval do
-  include RedirectBackHelper
-end
+require File.join(File.dirname(__FILE__), "rails", "init.rb")
 
